@@ -16,6 +16,7 @@ ___
 
 **Future plans:**
 * Create a neural network (NN) using Keras for specialised CAD (computer-aided design) software (like [Autodesk Revit](https://www.autodesk.ru/products/revit/overview)). The NN will allow to convert 2D building drawings (either from paper or electronic drawing) into a primary BIM (Building Information Model) automatically. This will reduce labor costs of a civil engineer during creation of primary BIM-model of a building.
+* Create mobile version of the application "Deforormation Modulus and Model Curve by MASW" for Android.
 * Add more data science analyses.
 
 ___
@@ -26,6 +27,7 @@ ___
 
 **Планы:**
 * Создать нейронную сеть с использованием Keras для специализированного САПР (системы автоматизированного проектирования) ПО (например [Autodesk Revit](https://www.autodesk.ru/products/revit/overview)). Нейронная сеть позволит автоматически переводить строителдьные 2D чертежи (как бумажные, так и электронные) в первичную BIM-модель (Building Information Model). Это снизит трудозатраты инженера-проектировщика при создании BIM-модели здания.
+* Сделать мобильную версию приложения "Deforormation Modulus and Model Curve by MASW" для Android.
 * Добавить больше проанализированных проектов Data Science.
 ___
 ## Научные публикации (Scientific publications)
