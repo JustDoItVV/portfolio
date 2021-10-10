@@ -1,6 +1,7 @@
 # Moscow tutor's price prediction
-[English version](##English-version)
-[Русская версия](##Русская-версия)
+[English version](#English-version)
+
+[Русская версия](#Русская-версия)
 
 ## English version
 The aim is to build a model for estimation of a price of tutor's services in Moscow. For model creation a dataset collected based on the open information from the site [Ассоциация репетиторов](https://repetit.ru/) (in Russian). The dataset collected using a web scraper.
@@ -28,6 +29,7 @@ Used environment - Google Colab
 - **Audience** - Tutor's target audience. For example: students, pupils of 10 grades etc. They are stated by tutors and can differs
 - **Video_presentation** - Video presentation availability
 - **Photo** - Profile photo availability
+
 
 
 ## Русская версия
