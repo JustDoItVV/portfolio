@@ -30,7 +30,9 @@ Used environment - Google Colab
 - **Video_presentation** - Video presentation availability
 - **Photo** - Profile photo availability
 
-
+```
+____
+```
 
 ## Русская версия
 Цель - сделать модель для оценки цены услуг репетитора в Москве. Для создания модели на основе открытой информации с сайта [Ассоциация репетиторов](https://repetit.ru/) с помощью веб парсера собран набор данных.
