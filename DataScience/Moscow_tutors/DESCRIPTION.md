@@ -12,8 +12,8 @@ Dataset obtaining date is 2021-10-06
 
 **Files:**
 * [Web_Scraper_for_tutors_dataset.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Web_Scraper_for_tutors_dataset.ipynb/) – Web Scraper
-* [tutors_eng_06_10_2021.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_06_10_2021.csv) – Dataset in English, translated and transliterated from Russian
-* [tutors_rus_06_10_2021.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_rus_06_10_2021.csv) – Dataset in Russian
+* [tutors_eng_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_2021_10_06.csv) – Dataset in English, translated and transliterated from Russian
+* [tutors_rus_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_rus_2021_10_06.csv) – Dataset in Russian
 * [data_for_predictions.xlsx](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/data_for_predictions.xlsx) – User conditions for price estimation
 * [Moscow_tutor's_price_prediction.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Moscow_tutor's_price_prediction.ipynb) – Dataset analysis, model creation, price estimation
 
@@ -45,8 +45,8 @@ ____
 
 **Файлы:**
 * [Web_Scraper_for_tutors_dataset.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Web_Scraper_for_tutors_dataset.ipynb/) – Веб парсер
-* [tutors_eng_06_10_2021.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_06_10_2021.csv) – Набор данных на английском, переведенный и транлитерированный
-* [tutors_rus_06_10_2021.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_rus_06_10_2021.csv) – Набор данных на русском
+* [tutors_eng_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_2021_10_06.csv) – Набор данных на английском, переведенный и транлитерированный
+* [tutors_rus_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_rus_2021_10_06.csv) – Набор данных на русском
 * [data_for_predictions.xlsx](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/data_for_predictions.xlsx) – Пользовательские условия для оценки цены
 * [Moscow_tutor's_price_prediction.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Moscow_tutor's_price_prediction.ipynb) – Анализ набора данных, построение модели и оценка
 
