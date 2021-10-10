@@ -8,6 +8,8 @@ The aim is to build a model for estimation of a price of tutor's services in Mos
 
 Used environment - Google Colab
 
+Dataset obtaining date is 2021-10-06
+
 **Files:**
 * [Web_Scraper_for_tutors_dataset.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Web_Scraper_for_tutors_dataset.ipynb/) – Web Scraper
 * [tutors_eng_06_10_2021.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_06_10_2021.csv) – Dataset in English, translated and transliterated from Russian
@@ -38,6 +40,8 @@ ____
 Цель - сделать модель для оценки цены услуг репетитора в Москве. Для создания модели на основе открытой информации с сайта [Ассоциация репетиторов](https://repetit.ru/) с помощью веб парсера собран набор данных.
 
 Среда - Google Colab
+
+Дата сбора данных - 2021-10-06
 
 **Файлы:**
 * [Web_Scraper_for_tutors_dataset.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Web_Scraper_for_tutors_dataset.ipynb/) – Веб парсер
