@@ -20,7 +20,7 @@ Dataset obtaining date is 2021-10-06
 **Features description:**
 
 - **Categories** - Lists of taught subjects out of 27 subjects
-- **Price** - Price in rub per hour
+- **Price** - Price in rubles per hour
 - **Score** - Average score based on the reviews, 0.0-5.0
 - **Format** - Lists of working formats. Options: remotely, at the tutor's place, at the student's place
 - **Reviews_number** - Amount of student's reviews in the tutor's profile
