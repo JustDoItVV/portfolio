@@ -26,7 +26,7 @@ Dataset obtaining date is 2021-10-06
 - **Reviews_number** - Amount of student's reviews in the tutor's profile
 - **Experience** - Experience in years
 - **Status** - Current tutor's status. Options: Private tutor, School teacher, Postgraduate student, Native speaker, University professor, Student, not stated (missing)
-- **Location** - Metro stations or cities on Moscow region
+- **Location** - Metro stations or cities in Moscow region
 - **Tags** - Tutor's services. They are stated by tutors and can differs. They are remained in Russian in the dataset
 - **Audience** - Tutor's target audience. For example: students, pupils of 10 grades etc. They are stated by tutors and can differs
 - **Video_presentation** - Video presentation availability
