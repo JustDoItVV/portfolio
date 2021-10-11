@@ -15,8 +15,8 @@ ___
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/DESCRIPTION.md) - an analysis of Moscow tutors dataset obtained using a web scraper
 
 **Future plans:**
-* Create a neural network (NN) using Keras for specialised CAD (computer-aided design) software (like [Autodesk Revit](https://www.autodesk.ru/products/revit/overview)). The NN will allow to convert 2D building drawings (either from paper or electronic drawing) into a primary BIM (Building Information Model) automatically. This will reduce labor costs of a civil engineer during creation of primary BIM-model of a building.
-* Create mobile version of the application "Deforormation Modulus and Model Curve by MASW" for Android.
+* Develop a neural network (NN) using Keras for specialised CAD (computer-aided design) software (like [Autodesk Revit](https://www.autodesk.ru/products/revit/overview)). The NN will allow to convert 2D building drawings (either from paper or electronic drawing) into a primary BIM (Building Information Model) automatically. This will reduce labor costs of a civil engineer during creation of primary BIM-model of a building.
+* Develop mobile version of the application "Deforormation Modulus and Model Curve by MASW" for Android.
 * Add more data science analyses.
 
 ___
