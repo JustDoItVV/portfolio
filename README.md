@@ -33,7 +33,7 @@ ___
 _Проекты Data Science_
 
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/DESCRIPTION.md) - анализ набора данных московских репетиторов, собранного с помощью веб парсера
-* [Industrial waste products market in Russia (TAM-SAM-SOM)](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Wastes_market) - Оценка рынка оборота отходов производства в России "сверху" и "снизу", выполненная в рамках проекта «Экологически-рациональная альтернатива» с использованием данных, собранных с сайта конкурента - торговой плозщадки по продаже отходов
+* [Industrial waste products market in Russia (TAM-SAM-SOM)](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Wastes_market) - Оценка рынка оборота отходов производства в России "сверху" и "снизу", выполненная в рамках проекта «Экологически-рациональная альтернатива» с использованием данных, собранных с сайта конкурента - торговой площадки по продаже отходов
 
 _Приложения на Python_
 
