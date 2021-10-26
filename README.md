@@ -13,9 +13,9 @@ ___
 **Projects list:**
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/blob/main/App_Deformation_Modulus_and_Model_Curve_by_MASW/DESCRIPTION.md) - a specialised geotechnical application
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/DESCRIPTION.md) - an analysis of Moscow tutors dataset obtained using a web scraper
+* [Industrial waste products market in Russia (TAM-SAM-SOM)](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Wastes_market) - The estimation of Russia waste products market both from the top and in bottom-up ways that was carried out within the framework of the project "Экологически-рациональная альтернатива" (Environmentally sustainable alternative) using the data collected with a web scraper from a competitor waste marketplace site
 
 **Future plans:**
-* Develop a neural network (NN) using Keras for specialised CAD (computer-aided design) software (like [Autodesk Revit](https://www.autodesk.ru/products/revit/overview)). The NN will allow to convert 2D building drawings (either from paper or electronic drawing) into a primary BIM (Building Information Model) automatically. This will reduce labor costs of a civil engineer during creation of primary BIM-model of a building.
 * Develop mobile version of the application "Deforormation Modulus and Model Curve by MASW" for Android.
 * Add more data science analyses.
 
@@ -24,8 +24,8 @@ ___
 **Список проектов:**
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/blob/main/App_Deformation_Modulus_and_Model_Curve_by_MASW/DESCRIPTION.md) - специализированное геотехническое приложение
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/DESCRIPTION.md) - анализ набора данных московских репетиторов, собранного с помощью веб парсера
+* [Industrial waste products market in Russia (TAM-SAM-SOM)](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Wastes_market) - Оценка рынка оборота отходов производства в России "сверху" и "снизу", выполненная в рамках проекта «Экологически-рациональная альтернатива» с использованием данных, собранных с сайта конкурента - торговой плозщадки по продаже отходов
 
 **Планы:**
-* Создать нейронную сеть с использованием Keras для специализированного САПР (системы автоматизированного проектирования) ПО (например [Autodesk Revit](https://www.autodesk.ru/products/revit/overview)). Нейронная сеть позволит автоматически переводить строителдьные 2D чертежи (как бумажные, так и электронные) в первичную BIM-модель (Building Information Model). Это снизит трудозатраты инженера-проектировщика при создании BIM-модели здания.
 * Сделать мобильную версию приложения "Deforormation Modulus and Model Curve by MASW" для Android.
 * Добавить больше проанализированных проектов Data Science.
