@@ -11,10 +11,14 @@ ___
 
 ## English version
 **Projects list:**
-Data Science pet-projects:
+
+Data Science pet-projects
+
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/DESCRIPTION.md) - an analysis of Moscow tutors dataset obtained using a web scraper
 * [Industrial waste products market in Russia (TAM-SAM-SOM)](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Wastes_market) - The estimation of Russia waste products market both from the top and in bottom-up ways that was carried out within the framework of the project "Экологически-рациональная альтернатива" (Environmentally sustainable alternative) using the data collected with a web scraper from a competitor waste marketplace site
-Python applications:
+
+Python applications
+
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/blob/main/App_Deformation_Modulus_and_Model_Curve_by_MASW/DESCRIPTION.md) - a specialised geotechnical application
 
 **Future plans:**
@@ -24,10 +28,14 @@ Python applications:
 ___
 ## Русская версия
 **Список проектов:**
-Pet-проекты Data Science:
+
+Pet-проекты Data Science
+
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/DESCRIPTION.md) - анализ набора данных московских репетиторов, собранного с помощью веб парсера
 * [Industrial waste products market in Russia (TAM-SAM-SOM)](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Wastes_market) - Оценка рынка оборота отходов производства в России "сверху" и "снизу", выполненная в рамках проекта «Экологически-рациональная альтернатива» с использованием данных, собранных с сайта конкурента - торговой плозщадки по продаже отходов
-Приложения на Python:
+
+Приложения на Python
+
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/blob/main/App_Deformation_Modulus_and_Model_Curve_by_MASW/DESCRIPTION.md) - специализированное геотехническое приложение
 
 **Планы:**
