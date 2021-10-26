@@ -16,11 +16,10 @@ Used environment - Google Colab, Tableau Public
 Dataset obtaining date is 2021-10-24
 
 **Files:**
-* [Web_Scraper_for_tutors_dataset.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Web_Scraper_for_tutors_dataset.ipynb/) – Web Scraper
+* [Industrial_waste_products_market_in_Russia_(TAM_SAM_SOM).ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Wastes_market/Industrial_waste_products_market_in_Russia_(TAM_SAM_SOM).ipynb) – Web Scraper and the data analysis
 * [tutors_eng_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_2021_10_06.csv) – Dataset in English, translated and transliterated from Russian
 * [tutors_rus_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_rus_2021_10_06.csv) – Dataset in Russian
-* [data_for_predictions.xlsx](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/data_for_predictions.xlsx) – User conditions for price estimation
-* [Moscow_tutor's_price_prediction.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Moscow_tutor's_price_prediction.ipynb) – Dataset analysis, model creation, price estimation
+
 
 **Features description:**
 
@@ -50,11 +49,9 @@ ____
 Дата сбора данных - 2021-10-24
 
 **Файлы:**
-* [Web_Scraper_for_tutors_dataset.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Web_Scraper_for_tutors_dataset.ipynb/) – Веб парсер
+* [Industrial_waste_products_market_in_Russia_(TAM_SAM_SOM).ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Wastes_market/Industrial_waste_products_market_in_Russia_(TAM_SAM_SOM).ipynb) – Веб парсер и анализ данных
 * [tutors_eng_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_2021_10_06.csv) – Набор данных на английском, переведенный и транлитерированный
 * [tutors_rus_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_rus_2021_10_06.csv) – Набор данных на русском
-* [data_for_predictions.xlsx](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/data_for_predictions.xlsx) – Пользовательские условия для оценки цены
-* [Moscow_tutor's_price_prediction.ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/Moscow_tutor's_price_prediction.ipynb) – Анализ набора данных, построение модели и оценка
 
 **Описание характеристик набора данных:**
 
