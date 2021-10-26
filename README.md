@@ -22,6 +22,7 @@ _Python applications_
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/blob/main/App_Deformation_Modulus_and_Model_Curve_by_MASW/DESCRIPTION.md) - a specialised geotechnical application
 
 **Future plans:**
+* Enhance Moscow tutors' analysis with an analysis of tutors' distribution by areas of metro stations, add Tableau dashboard with map and plots
 * Develop mobile version of the application "Deforormation Modulus and Model Curve by MASW" for Android.
 * Add more data science analyses.
 
@@ -39,5 +40,6 @@ _Приложения на Python_
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/blob/main/App_Deformation_Modulus_and_Model_Curve_by_MASW/DESCRIPTION.md) - специализированное геотехническое приложение
 
 **Планы:**
-* Сделать мобильную версию приложения "Deforormation Modulus and Model Curve by MASW" для Android.
-* Добавить больше проанализированных проектов Data Science.
+* Дополнить анализ московских репетиторов анализом распределения репетиторов по районам станций метро, добавить Tableau дэшборд с картой и графиками
+* Сделать мобильную версию приложения "Deforormation Modulus and Model Curve by MASW" для Android
+* Добавить больше проанализированных проектов Data Science
