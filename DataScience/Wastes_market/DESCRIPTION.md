@@ -4,7 +4,7 @@
 [Русская версия](#Русская-версия)
 
 ## English version
-The estimation was carried out using Tableau Public 2021 within the framework of the project "Экологически-рациональная альтернатива" (Environmentally sustainable alternative). 
+The estimation was carried out within the framework of the project "Экологически-рациональная альтернатива" (Environmentally sustainable alternative). 
 The project is a web marketplace for the sale of industrial waste products with integration of state personal account of a natural resource user. 
 The project aims to simplify the sale of waste products from manufacturers, the resources search for waste disposers and the interaction of both sides with government authorities. 
 It is assumed that the project will increase the number of recycled waste and reduce the number of landfills as part of the implementation of the national project Ecology.
@@ -37,7 +37,7 @@ ____
 
 
 ## Русская версия
-Оценка проводилась с использованием Tableau Public 2021 в рамках проекта «Экологически-рациональная альтернатива».
+Оценка проводилась в рамках проекта «Экологически-рациональная альтернатива».
 Проект представляет собой интернет-площадку по продаже промышленных отходов с интеграцией государственного личного кабинета приодопользователя.
 Проект направлен на упрощение продажи отходов производства от предприятий-производителей, поиск ресурсов для переработчиков отходов и взаимодействие обеих сторон с государственными органами.
 Предполагается, что в рамках реализации нацпроекта «Экология» проект увеличит количество переработанных отходов и сократит количество полигонов/свалок.
