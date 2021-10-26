@@ -17,8 +17,8 @@ Dataset obtaining date is 2021-10-24
 
 **Files:**
 * [Industrial_waste_products_market_in_Russia_(TAM_SAM_SOM).ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Wastes_market/Industrial_waste_products_market_in_Russia_(TAM_SAM_SOM).ipynb) – Web Scraper and the data analysis
-* [tutors_eng_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_2021_10_06.csv) – Dataset in English, translated and transliterated from Russian
-* [tutors_rus_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_rus_2021_10_06.csv) – Dataset in Russian
+* [wastes_reactor_2021_10_24.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Wastes_market/wastes_reactor_2021_10_24.csv) – Dataset with wastes advertisements from the competitotrs site in csv
+* [wastes_reactor_2021_10_24.xlsx](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Wastes_market/wastes_reactor_2021_10_24.xlsx) – The same in excel
 
 
 **Features description:**
@@ -50,8 +50,8 @@ ____
 
 **Файлы:**
 * [Industrial_waste_products_market_in_Russia_(TAM_SAM_SOM).ipynb](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Wastes_market/Industrial_waste_products_market_in_Russia_(TAM_SAM_SOM).ipynb) – Веб парсер и анализ данных
-* [tutors_eng_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_eng_2021_10_06.csv) – Набор данных на английском, переведенный и транлитерированный
-* [tutors_rus_2021_10_06.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors/tutors_rus_2021_10_06.csv) – Набор данных на русском
+* [wastes_reactor_2021_10_24.csv](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Wastes_market/wastes_reactor_2021_10_24.csv) – Набор данных с объявлениями о продаже отходов с сайта конкурента в csv
+* [wastes_reactor_2021_10_24.xlsx](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Wastes_market/wastes_reactor_2021_10_24.xlsx) – То же в excel
 
 **Описание характеристик набора данных:**
 
