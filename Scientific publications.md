@@ -10,7 +10,7 @@
 4.	[Correlation Between Wave Analysis Data and Data of Plate Load Tests in Various Soils](https://www.taylorfrancis.com/chapters/edit/10.1201/9780429058882-4/correlation-wave-analysis-data-data-plate-load-tests-various-soils-antipov-ofrikhter) / V. V. Antipov, V. G. Ofrikhter // Geotechnics Fundamentals and Applications in Construction: New Materials, Structures, Technologies and Calculations - Proceedings of the International Conference on Geotechnics Fundamentals and Applications in Construction: New Materials, Structures, Technologies and Calculations, GFAC 2019. – London : Taylor & Francis Group, 2019. – P. 16–20.
 5.	[Field Estimation of Deformation Modulus of the Soils by Multichannel Analysis of Surface Waves](https://doi.org/10.1016/j.dib.2019.103974) / V. V. Antipov, V. G. Ofrikhter // Data in Brief. – 2019. – Vol. 24. – 5 p.
 
-*В других журналах, в том числе из перечня ВАК:*
+*В других журналах, в том числе из перечня ВАК (In Russian):*
 1.	[Оперативное построение модельной кривой деформирования по данным волнового анализа](https://doi.org/10.23968/1999-5571-2020-17-3-101-107) / В. В. Антипов, В. Г. Офрихтер, Н. Н. Лихачева // Вестник гражданских инженеров. – 2020. – № 3 (80). – С. 101–107.
 2.	[Оперативная оценка напластования и удельного веса грунтов волновым методом](https://www.researchgate.net/publication/333608328_Express_assessment_of_soil_strata_and_of_soil_unit_weight_by_wave_analysis) / В. В. Антипов, В. Г. Офрихтер // Вестник ПНИПУ. Строительство и архитектура. – 2019. – Т. 10, № 1. – С. 38–48.
 3.	[Развитие неразрушающих методов предварительной геотехнической оценки грунтовых оснований](http://doi.org/10.22227/1997-0935.2018.12.1448-1473) / В. В. Антипов, В. Г. Офрихтер // Вестник МГСУ. – 2018. – Т. 13, № 12 (123). – С. 1448–1473.
@@ -25,6 +25,6 @@
 12.	[Численное моделирование динамического воздействия от одиночного транспортного средства на существующее здание](https://www.researchgate.net/publication/322762263_NUMERICAL_MODELLING_OF_DYNAMIC_OF_FOUNDATION_OF_EXISTING_BUILDING_CARGO_VEHICLE) / В. В. Антипов, В. Г. Офрихтер, О. А. Шутова, А. Б. Пономарев // Известия КГАСУ. – 2017. – № 3 (41). – С. 131–138.
 13.	[Исследование верхней части разреза грунтовой толщи экспресс-методами волнового анализа](http://doi.org/10.22227/1997-0935.2016.12.44-60) / В. В. Антипов, О. А. Шутова, В. Г. Офрихтер // Вестник МГСУ. – 2016. – № 12. – С. 44–60. – DOI: 10.22227/1997-0935.2016.12.44-60.
 
-*Патенты на изобретения:*
+*Патенты на изобретения (Patents for inventions, In Russian):*
 1.	Пат. 2728739 Российская Федерация, МПК E 02 D 1/02. Способ построения кривой деформирования грунта / Офрихтер В. Г., Антипов В. В.; заявитель и патентообладатель Федеральное государственное бюджетное образовательное учреждение высшего образования «Пермский национальный исследовательский политехнический университет». – № 2020106566 ; заявл. 2020.02.11, опубл. 2020.07.30, Бюл. № 22. – 3 с.
 2.	Пат. 2704074 Российская Федерация, МПК E 02 D 1/00. Способ оценки модуля деформации грунта / Офрихтер В. Г., Антипов В. В.; заявитель и патентообладатель Федеральное государственное бюджетное образовательное учреждение высшего образования «Пермский национальный исследовательский политехнический университет». – № 2019103754 ; заявл. 2019.02.11 ; опубл. 2019.10.22, Бюл. № 30. – 12 с.
