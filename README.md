@@ -16,6 +16,7 @@ _Data Science projects_
 
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors) - An analysis of Moscow tutors dataset obtained using a web scraper
 * [Industrial waste products market in Russia (TAM-SAM-SOM)](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Wastes_market) - The estimation of Russia waste products market both from the top and in bottom-up ways that was carried out within the framework of the project "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") using the data collected with a web scraper from a competitor waste marketplace site
+* [Hackaton hack-change-2021](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Hackaton_hack-change-2021) - My solution to the first part of task from the hackaton
 
 _Python applications_
 
@@ -33,6 +34,9 @@ _Проекты Data Science_
 
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors) - анализ набора данных московских репетиторов, собранного с помощью веб парсера
 * [Industrial waste products market in Russia (TAM-SAM-SOM)](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Wastes_market) - Оценка рынка оборота отходов производства в России "сверху" и "снизу", выполненная в рамках проекта «Экологически-рациональная альтернатива» с использованием данных, собранных с сайта конкурента - торговой площадки по продаже отходов
+* [Hackaton hack-change-2021](https://github.com/JustDoItVV/portfolio/tree/main/DataScience/Hackaton_hack-change-2021) - Мое решение первой части задания с хакатона
+
+
 
 _Приложения на Python_
 
