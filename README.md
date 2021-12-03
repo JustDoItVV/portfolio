@@ -2,7 +2,6 @@
 ## Vadim V. Antipov
 vadim.v.antipov@gmail.com
 
-+7(950)456-54-55
 ___
 [English version](#English-version)
 
