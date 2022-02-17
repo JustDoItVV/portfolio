@@ -11,6 +11,10 @@ ___
 ## English version
 **Projects list:**
 
+_WEB_
+
+* [https://era-ecology.ru/](https://era-ecology.ru/) - MVP of a marketplace "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") for buy-sell of wastes
+
 _Data Science projects_
 
 * [Moscow tutor's price prediction](https://github.com/JustDoItVV/portfolio/blob/main/DataScience/Moscow_tutors) - An analysis of Moscow tutors dataset obtained using a web scraper
@@ -22,12 +26,14 @@ _Python applications_
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/tree/main/Apps/App_Deformation_Modulus_and_Model_Curve_by_MASW) - a specialised geotechnical application
 * [BlackJack](https://github.com/JustDoItVV/portfolio/tree/main/Apps/BlackJack) - A classic card game. Just for fun
 
-**Future plans:**
-* Add more data science analyses.
 
 ___
 ## Русская версия
 **Список проектов:**
+
+_WEB_
+
+* [https://era-ecology.ru/](https://era-ecology.ru/) - MVP информационно-торговой площадки "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") для реализации отходов
 
 _Проекты Data Science_
 
@@ -41,6 +47,3 @@ _Приложения на Python_
 
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/tree/main/Apps/App_Deformation_Modulus_and_Model_Curve_by_MASW) - специализированное геотехническое приложение
 * [BlackJack](https://github.com/JustDoItVV/portfolio/tree/main/Apps/BlackJack) - Классическая карточная игра. Just for fun
-
-**Планы:**
-* Добавить больше проанализированных проектов Data Science
