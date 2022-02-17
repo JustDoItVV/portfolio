@@ -13,7 +13,7 @@ ___
 
 _WEB_
 
-* [https://era-ecology.ru/](https://era-ecology.ru/) - MVP of a marketplace "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") for buy-sell of wastes
+* [https://era-ecology.ru/](https://era-ecology.ru/) - MVP of a marketplace "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") for buy-sell of wastes; Django 3.2.12, Bootstrap 5
 
 _Data Science projects_
 
@@ -33,7 +33,7 @@ ___
 
 _WEB_
 
-* [https://era-ecology.ru/](https://era-ecology.ru/) - MVP информационно-торговой площадки "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") для реализации отходов
+* [https://era-ecology.ru/](https://era-ecology.ru/) - MVP информационно-торговой площадки "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") для реализации отходов; Django 3.2.12, Bootstrap 5
 
 _Проекты Data Science_
 
