@@ -26,6 +26,10 @@ _Python applications_
 * [BlackJack](https://github.com/JustDoItVV/portfolio/tree/main/Apps/BlackJack) - A classic card game. Just for fun
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/tree/main/Apps/App_Deformation_Modulus_and_Model_Curve_by_MASW) - a specialised geotechnical application
 
+_JavaScript applications_
+
+* [WeatherAPI_CLI](https://github.com/JustDoItVV/portfolio/tree/main/Apps/WeatherAPI_CLI) - My first simple JS CLI application for getting the current weather in a given city via API of the Weatherapi.com service.
+
 ___
 ## Русская версия
 **Список проектов:**
@@ -44,3 +48,7 @@ _Приложения на Python_
 
 * [BlackJack](https://github.com/JustDoItVV/portfolio/tree/main/Apps/BlackJack) - Классическая карточная игра. Just for fun
 * [Application "Deforormation Modulus and Model Curve by MASW"](https://github.com/JustDoItVV/portfolio/tree/main/Apps/App_Deformation_Modulus_and_Model_Curve_by_MASW) - специализированное геотехническое приложение
+
+_Приложения на JavaScript
+
+* [WeatherAPI_CLI](https://github.com/JustDoItVV/portfolio/tree/main/Apps/WeatherAPI_CLI) - Мое первое консольное приложение на JS для получения текущей погоды в заданном городе через сервис API сервиса Weatherapi.com.
