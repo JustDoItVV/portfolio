@@ -37,7 +37,7 @@ _Data Science projects_
 
 _Others_
 
--   [S21_containers](https://github.com/JustDoItVV/s21_containers) - Containers library, team project (WIP); C++
+-   [S21_containers](https://github.com/JustDoItVV/s21_containers) - Containers library, team project; C++
 -   [S21_tetris](https://github.com/JustDoItVV/s21_tetris) - BrickGame tetris; C
 
 ---
@@ -67,5 +67,5 @@ _Проекты Data Science_
 
 _Разное_
 
--   [S21_containers](https://github.com/JustDoItVV/s21_containers) - Библиотека контейнеров, групповой проект (WIP); C++
+-   [S21_containers](https://github.com/JustDoItVV/s21_containers) - Библиотека контейнеров, групповой проект; C++
 -   [S21_tetris](https://github.com/JustDoItVV/s21_tetris) - BrickGame Тетрис; C
