@@ -18,6 +18,7 @@ vadim.v.antipov@gmail.com
 
 _WEB_
 
+- [ThreeJS-Demo](http://193.227.241.12/threejs-demo) - demo site with Three.js projects; Next.js, TypeScript, Three.js, automized pipeline CI/CD via GitHub Actions
 - [https://geoexpertconsult.ru/](https://geoexpertconsult.ru/) - web-site of LLC GeoExpertConsult (KZ); Next.js, TypeScript, automized pipeline CI/CD via GitHub Actions
 - [Fit Friends (Backend+Frontend)](https://github.com/JustDoItVV/2299899-fit-friends) - online platform for finding workouts and creating them. The web application (site) functions as a mixture of a social network and an ad exchange. Trainers create workouts, and users can buy them and practice them, invite other users to joint workouts, and ask trainers to conduct an individual workout; NX monorepository, Nest.js, TypeScript, React 18, Redux
 - [Guitar Shop (Backend+Frontend)](https://github.com/JustDoItVV/2299899-guitar-shop) - online store selling guitars, part of the site for the administrator role; NX monorepository, microservices, Nest.js, TypeScript, React 18, Redux
@@ -52,6 +53,7 @@ _Others_
 
 _WEB_
 
+- [ThreeJS-Demo](http://193.227.241.12/threejs-demo) - демонстрационный сайт с проектами на Three.js; Next.js, TypeScript, автоматизированный пайплайн CI/CD через GitHub Actions
 - [https://geoexpertconsult.ru/](https://geoexpertconsult.ru/) - сайт компании ГеоЭкспертКонсалт (Казахстан); Next.js, TypeScript, автоматизированный пайплайн CI/CD через GitHub Actions
 - [Fit Friends (Backend+Frontend)](https://github.com/JustDoItVV/2299899-fit-friends) - это онлайн площадка для поиска тренировок и их создания. Веб-приложение (сайт) функционирует как смесь соцсети и биржи объявлений. Тренеры создают тренировки, а пользователи могут покупать их и заниматься по ним, приглашать других пользователей на совместные тренировки, а тренеров просить провести индивидуальную тренировку; NX монорепозиторий, Nest.js, TypeScript, React 18, Redux
 - [Guitar Shop (Backend+Frontend)](https://github.com/JustDoItVV/2299899-guitar-shop) - интернет-магазин по продаже гитар, часть сайта для роли администратора; NX монорепозиторий, микросервисы, Nest.js, TypeScript, React 18, Redux
