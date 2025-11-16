@@ -29,7 +29,7 @@ _WEB_
 - [Six cities (Frontend)](https://github.com/JustDoItVV/2299899-six-cities-13) - service for travelers who do not want to overpay for rental housing. Choose from six popular travel destinations and get an up-to-date list of rental offers. Detailed information about housing, showing the object on the map, as well as a concise service interface will help you quickly choose the best offer; React 18, Redux, TypeScript
 - [Big Trip](https://github.com/JustDoItVV/2299899-big-trip-20) - a modern service for real travelers with a minimalistic interface. The service helps to plan a trip route in detail, calculate the cost of travel and get information about places of interest; JavaScript
 - [Kekstagram](https://github.com/JustDoItVV/2299899-kekstagram-28) - an image viewing service. Users are given the opportunity to upload their own photos or view photos previously uploaded by other users; JavaScript
-- [https://era-ecology.ru/](https://era-ecology.ru/) - MVP of a marketplace "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") for buy-sell of wastes (NDA); Next.js, Typescript
+- [https://era-ecology.ru/](https://justdoitvv.site/era-ecology/) - MVP of a marketplace "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") for buy-sell of wastes (NDA); Next.js, Typescript
 - [CatEduTop](https://github.com/JustDoItVV/cat-edu-top) - MVP of an agregator of courses with ratings; Next.js, Typescript
 
 _Data Science projects_
@@ -64,7 +64,7 @@ _WEB_
 - [Шесть городов (Frontend)](https://github.com/JustDoItVV/2299899-six-cities-13) - сервис для путешественников, не желающих переплачивать за аренду жилья. Выбирайте один из шести популярных городов для путешествий и получайте актуальный список предложений по аренде. Подробная информация о жилье, показ объекта на карте, а также лаконичный интерфейс сервиса помогут быстро выбрать оптимальное предложение; React 18, Redux, TypeScript
 - [Большое путешествие](https://github.com/JustDoItVV/2299899-big-trip-20) - — современный сервис для настоящих путешественников с минималистичным интерфейсом. Сервис помогает детально спланировать маршрут поездки, рассчитать стоимость путешествия и получить информацию о достопримечательностях; JavaScript
 - [Кекстаграм](https://github.com/JustDoItVV/2299899-kekstagram-28) - сервис просмотра изображений. Пользователям предоставлена возможность загружать свои фотографии или просматривать фотографии, загруженные ранее другими пользователями; JavaScript
-- [https://era-ecology.ru/](https://era-ecology.ru/) - MVP информационно-торговой площадки "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") для реализации отходов; Next.js, Typescript
+- [https://era-ecology.ru/](https://justdoitvv.site/era-ecology/) - MVP информационно-торговой площадки "Экологически-рациональная альтернатива" ("Environmentally Sustainable Alternative") для реализации отходов; Next.js, Typescript
 - [CatEduTop](https://github.com/JustDoItVV/cat-edu-top) - MVP агрегатора курсов с топ ретингом; Next.js, Typescript
 
 _Проекты Data Science_
